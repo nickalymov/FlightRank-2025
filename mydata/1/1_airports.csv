@@ -1,0 +1,692 @@
+IATA,City_Name,Country_Name,type,latitude_deg,longitude_deg,continent
+NRT,Tokyo,Japan,large_airport,36,140,AS
+HND,Tokyo,Japan,large_airport,36,140,AS
+VNS,Varanasi,India,medium_airport,25,83,AS
+BAV,Baotou,China,medium_airport,41,110,AS
+BMV,Banmethuot,Viet Nam,medium_airport,13,108,AS
+DMK,Bangkok,Thailand,large_airport,14,101,AS
+BKK,Bangkok,Thailand,large_airport,14,101,AS
+IKA,Tehran,Iran,large_airport,35,51,AS
+VGD,Vologda,Russian Federation,medium_airport,59,40,EU
+XFN,Xiangyang,China,medium_airport,32,112,AS
+PKV,Pskov,Russian Federation,medium_airport,58,28,EU
+AER,Sochi,Russian Federation,large_airport,43,40,EU
+DFW,"Dallas, Texas",United States of America,large_airport,33,-97,NA
+MXP,Milan,Italy,large_airport,46,9,EU
+LIN,Milan,Italy,medium_airport,45,9,EU
+BGY,Milan,Italy,large_airport,46,10,EU
+PMF,Milan,Italy,medium_airport,45,10,EU
+XIK,Milan,Italy,RAILWAY,45,9,EU
+IMR,Milan,Italy,RAILWAY,45,9,EU
+SZF,Samsun,Turkey,medium_airport,41,37,AS
+BRI,Bari,Italy,large_airport,41,17,EU
+DOH,Doha,Qatar,large_airport,25,52,AS
+WEH,Weihai,China,medium_airport,37,122,AS
+YIH,Yichang,China,medium_airport,31,111,AS
+CGR,Campo Grande,Brazil,medium_airport,-20,-55,SA
+UUA,Bugulma,Russian Federation,medium_airport,55,53,AS
+BJV,Bodrum,Turkey,large_airport,37,28,AS
+EDI,Edinburgh,Great Britain (United Kingdom),large_airport,56,-3,EU
+IBZ,Ibiza,Spain,large_airport,39,1,EU
+PPS,Puerto Princesa,Philippines,medium_airport,10,119,AS
+QKL,Cologne,Germany,RAILWAY,51,7,EU
+CGN,Cologne,Germany,large_airport,51,7,EU
+QKU,Cologne,Germany,RAILWAY,51,7,EU
+DIY,Diyarbakir,Turkey,medium_airport,38,40,AS
+PWE,Pevek,Russian Federation,medium_airport,70,171,AS
+CRL,Brussels,Belgium,medium_airport,50,4,EU
+BRU,Brussels,Belgium,large_airport,51,4,EU
+ZYR,Brussels,Belgium,RAILWAY,50,4,EU
+DMS,Dammam,Saudi Arabia,RAILWAY,26,50,AS
+DMM,Dammam,Saudi Arabia,large_airport,26,50,AS
+TIV,Tivat,Montenegro,medium_airport,42,19,EU
+TYD,Tynda,Russian Federation,small_airport,55,125,AS
+VGA,Vijayawada,India,medium_airport,17,81,AS
+HYN,Taizhou (Zhejiang),China,medium_airport,29,121,AS
+RUH,Riyadh,Saudi Arabia,large_airport,25,47,AS
+DYR,Anadyr,Russian Federation,medium_airport,65,178,AS
+MLA,Malta,Malta,large_airport,36,14,EU
+CJB,Coimbatore,India,medium_airport,11,77,AS
+ZLP,Zuerich,Switzerland,RAILWAY,47,8,EU
+ZRH,Zuerich,Switzerland,large_airport,47,9,EU
+FOC,Fuzhou,China,large_airport,26,120,AS
+KUF,Samara,Russian Federation,large_airport,54,50,EU
+IAR,Yaroslavl,Russian Federation,small_airport,58,40,EU
+LYI,Linyi,China,medium_airport,35,118,AS
+HKG,Hong Kong,Hong Kong,large_airport,22,114,AS
+IMF,Imphal,India,medium_airport,25,94,AS
+TVS,Tangshan,China,small_airport,40,118,AS
+LZO,Luzhou,China,medium_airport,29,105,AS
+VCE,Venice,Italy,large_airport,46,12,EU
+XVQ,Venice,Italy,RAILWAY,45,12,EU
+XVY,Venice,Italy,RAILWAY,45,12,EU
+PWQ,Pavlodar,Kazakhstan,medium_airport,52,77,AS
+UIK,Ust Ilimsk,Russian Federation,small_airport,58,103,AS
+WAE,Wadi Ad Dawasir,Saudi Arabia,medium_airport,21,45,AS
+RIX,Riga,Latvia,large_airport,57,24,EU
+CEE,Cherepovets,Russian Federation,medium_airport,59,38,EU
+NNY,Nanyang,China,small_airport,33,113,AS
+MSQ,Minsk,Belarus,large_airport,54,28,EU
+ASF,Astrakhan,Russian Federation,medium_airport,46,48,AS
+CPT,Cape Town,South Africa,large_airport,-34,19,AF
+NCE,Nice,France,large_airport,44,7,EU
+USU,Busuanga,Philippines,medium_airport,12,120,AS
+YNJ,Yanji,China,medium_airport,43,129,AS
+CTA,Catania,Italy,large_airport,37,15,EU
+BOM,Mumbai,India,large_airport,19,73,AS
+PTY,Panama City,Panama,large_airport,9,-79,NA
+PES,Petrozavodsk,Russian Federation,medium_airport,62,34,EU
+GVA,Geneve,Switzerland,large_airport,46,6,EU
+CGD,Changde,China,medium_airport,29,112,AS
+BCN,Barcelona,Spain,large_airport,41,2,EU
+YJB,Barcelona,Spain,RAILWAY,41,2,EU
+HLD,Hailar,China,medium_airport,49,120,AS
+PXU,Pleiku,Viet Nam,medium_airport,14,108,AS
+OGZ,Vladikavkaz,Russian Federation,medium_airport,43,45,EU
+AMS,Amsterdam,Netherlands (Holland),large_airport,52,5,EU
+ZYA,Amsterdam,Netherlands (Holland),RAILWAY,52,5,EU
+KTM,Kathmandu,Nepal,large_airport,28,85,AS
+BDQ,Vadodara,India,medium_airport,22,73,AS
+TPE,Taipei,Taiwan,large_airport,25,121,AS
+TSA,Taipei,Taiwan,medium_airport,25,122,AS
+SGC,Surgut,Russian Federation,medium_airport,61,73,AS
+CUN,Cancun,Mexico,large_airport,21,-87,NA
+HRB,Harbin,China,large_airport,46,126,AS
+PKC,Petropavlovsk Kamchatsky,Russian Federation,medium_airport,53,158,AS
+BKI,Kota Kinabalu,Malaysia,medium_airport,6,116,AS
+BQT,Brest,Belarus,medium_airport,52,24,EU
+CIT,Shimkent,Kazakhstan,medium_airport,42,69,AS
+SWA,Shantou,China,medium_airport,24,117,AS
+OSS,Osh,Kyrgyzstan,medium_airport,41,73,AS
+TLL,Tallinn,Estonia,large_airport,59,25,EU
+KMW,Kostroma,Russian Federation,medium_airport,58,41,EU
+BWN,Bandar Seri Begaw,Brunei Darussalam,large_airport,5,115,AS
+JED,Jeddah,Saudi Arabia,large_airport,22,39,AS
+FRU,Bishkek,Kyrgyzstan,large_airport,43,74,AS
+LUN,Lusaka,Zambia,large_airport,-15,28,AF
+HKT,Phuket,Thailand,large_airport,8,98,AS
+ELQ,Gassim,Saudi Arabia,medium_airport,26,44,AS
+MAA,Chennai,India,large_airport,13,80,AS
+ABT,Al Baha,Saudi Arabia,medium_airport,20,42,AS
+UCT,Ukhta,Russian Federation,medium_airport,64,54,AS
+CGQ,Changchun,China,large_airport,44,126,AS
+CAI,Cairo,Egypt,large_airport,30,31,AF
+YUL,Montreal,Canada,large_airport,45,-74,NA
+KBR,Kota Bharu,Malaysia,medium_airport,6,102,AS
+VIX,Vitoria,Brazil,large_airport,-20,-40,SA
+SLY,Salehard,Russian Federation,medium_airport,67,67,AS
+LAD,Luanda,Angola,large_airport,-9,13,AF
+EZV,Berezovo,Russian Federation,medium_airport,64,65,AS
+TNH,Tonghua,China,medium_airport,42,126,AS
+ECN,Ercan,Cyprus,medium_airport,35,34,AS
+UIO,Quito,Ecuador,large_airport,0,-78,SA
+SAN,"San Diego, California",United States of America,large_airport,33,-117,NA
+IXB,Bagdogra,India,medium_airport,27,88,AS
+CEK,Chelyabinsk,Russian Federation,medium_airport,55,62,EU
+AAE,Annaba,Algeria,medium_airport,37,8,AF
+RMO,Chisinau,Moldova,medium_airport,47,29,EU
+BSB,Brasilia,Brazil,large_airport,-16,-48,SA
+VCA,Can Tho,Viet Nam,medium_airport,10,106,AS
+DLM,Dalaman,Turkey,large_airport,37,29,AS
+AKX,Aktobe,Kazakhstan,medium_airport,50,57,AS
+TUU,Tabuk,Saudi Arabia,medium_airport,28,37,AS
+GZT,Gaziantep,Turkey,medium_airport,37,37,AS
+TLS,Toulouse,France,large_airport,44,1,EU
+VUS,Velikiy Ustyug,Russian Federation,medium_airport,61,46,AS
+JDZ,Jingdezhen,China,medium_airport,29,117,AS
+PEK,Beijing,China,large_airport,40,117,AS
+PKX,Beijing,China,large_airport,40,116,AS
+ULK,Lensk,Russian Federation,medium_airport,61,115,AS
+CAC,Cascavel,Brazil,medium_airport,-25,-54,SA
+NAP,Naples,Italy,large_airport,41,14,EU
+NHR,Naples,Italy,RAILWAY,41,14,EU
+INP,Naples,Italy,RAILWAY,41,14,EU
+REC,Recife,Brazil,medium_airport,-8,-35,SA
+CAN,Guangzhou,China,large_airport,23,113,AS
+TBW,Tambov,Russian Federation,medium_airport,53,41,EU
+REN,Orenburg,Russian Federation,medium_airport,52,55,EU
+ZMU,Munich,Germany,RAILWAY,48,12,EU
+MUC,Munich,Germany,large_airport,48,12,EU
+OVB,Novosibirsk,Russian Federation,large_airport,55,83,EU
+HEK,Heihe,China,medium_airport,50,127,AS
+PLZ,Port Elizabeth,South Africa,medium_airport,-34,26,AF
+OHO,Okhotsk,Russian Federation,medium_airport,59,143,AS
+PNH,Phnom Penh,Cambodia,large_airport,12,105,AS
+KJA,Krasnoyarsk,Russian Federation,large_airport,56,92,EU
+KCY,Krasnoyarsk,Russian Federation,medium_airport,56,93,AS
+XIL,Xilinhot,China,medium_airport,44,116,AS
+QQM,Manchester,Great Britain (United Kingdom),RAILWAY,54,-2,EU
+MAN,Manchester,Great Britain (United Kingdom),large_airport,53,-2,EU
+SHJ,Sharjah,United Arab Emirates,large_airport,25,56,AS
+SXR,Srinagar,India,medium_airport,34,75,AS
+VIE,Vienna,Austria,large_airport,48,17,EU
+XWC,Vienna,Austria,RAILWAY,48,16,EU
+NER,Neryungri,Russian Federation,medium_airport,57,125,AS
+NNM,Naryan Mar,Russian Federation,medium_airport,68,53,EU
+WUH,Wuhan,China,large_airport,31,114,AS
+PMO,Palermo,Italy,large_airport,38,13,EU
+GYD,Baku,Azerbaijan,large_airport,40,50,AS
+EYA,Zeya,Russian Federation,small_airport,54,127,AS
+SHE,Shenyang,China,large_airport,42,123,AS
+CPH,Copenhagen,Denmark,large_airport,56,13,EU
+EUN,Laayoune,Marocco,medium_airport,27,-13,AF
+KZO,Kyzylorda,Kazakhstan,small_airport,45,66,AS
+KYZ,Kyzyl,Russian Federation,medium_airport,52,94,AS
+EAM,Nejran,Saudi Arabia,medium_airport,18,44,AS
+BOS,"Boston, Massachusetts",United States of America,large_airport,42,-71,NA
+NSK,Norilsk,Russian Federation,medium_airport,69,87,AS
+LCY,London,Great Britain (United Kingdom),medium_airport,52,0,EU
+LGW,London,Great Britain (United Kingdom),large_airport,51,0,EU
+STN,London,Great Britain (United Kingdom),large_airport,52,0,EU
+LHR,London,Great Britain (United Kingdom),large_airport,51,0,EU
+BKO,Bamako,Mali,large_airport,13,-8,AF
+SRG,Semarang,Indonesia,medium_airport,-7,110,AS
+BBI,Bhubaneswar,India,medium_airport,20,86,AS
+CKY,Conakry,Guinea,medium_airport,10,-14,AF
+OSW,Orsk,Russian Federation,medium_airport,51,59,AS
+AYT,Antalya,Turkey,large_airport,37,31,AS
+HBE,ALEJANDRIA,Egypt,medium_airport,31,30,AF
+KSN,Kostanay,Kazakhstan,medium_airport,53,64,AS
+VIL,Dakhla,Marocco,medium_airport,24,-16,AF
+WNZ,Wenzhou,China,large_airport,28,121,AS
+BLQ,Bologna,Italy,large_airport,45,11,EU
+IBT,Bologna,Italy,RAILWAY,44,45,EU
+NAV,Nevsehir,Turkey,small_airport,39,35,AS
+RMZ,Tobolsk,Russian Federation,medium_airport,58,68,AS
+KRK,Krakow,Poland,large_airport,50,20,EU
+OMS,Omsk,Russian Federation,medium_airport,55,73,AS
+AAR,Aarhus,Denmark,medium_airport,56,11,EU
+MNL,Manila,Philippines,large_airport,15,121,AS
+MTY,Monterrey,Mexico,large_airport,26,-100,NA
+CGB,Cuiaba,Brazil,medium_airport,-16,-56,SA
+IGU,Iguassu Falls,Brazil,medium_airport,-26,-54,SA
+GES,General Santos,Philippines,medium_airport,6,125,AS
+DBV,Dubrovnik,Croatia,medium_airport,43,18,EU
+TJM,Tyumen,Russian Federation,medium_airport,57,65,AS
+BEY,Beirut,Lebanon,large_airport,34,35,AS
+DVO,Davao,Philippines,large_airport,7,126,AS
+ZBA,Basel,Switzerland,RAILWAY,47,7,EU
+CGH,Sao Paulo,Brazil,medium_airport,-24,-47,SA
+VCP,Sao Paulo,Brazil,medium_airport,-23,-47,SA
+GRU,Sao Paulo,Brazil,large_airport,-23,-46,SA
+DAR,Dar Es Salaam,Tanzania,large_airport,-7,39,AF
+INN,Innsbruck,Austria,medium_airport,47,11,EU
+SJO,San Jose,Costa Rica,large_airport,10,-84,NA
+LYG,Lianyungang,China,medium_airport,34,119,AS
+IAD,"Washington, DC",United States of America,large_airport,39,-77,NA
+GSV,Saratov,Russian Federation,large_airport,52,46,AS
+SJJ,Sarajevo,Bosnia & Herzegovina,large_airport,44,18,EU
+HAN,Hanoi,Viet Nam,large_airport,21,106,AS
+COV,Mersin,Turkey,large_airport,37,35,AS
+PVG,Shanghai,China,large_airport,31,122,AS
+SHA,Shanghai,China,large_airport,31,121,AS
+JNZ,Jinzhou,China,medium_airport,41,121,AS
+SZB,Kuala Lumpur,Malaysia,medium_airport,3,102,AS
+KUL,Kuala Lumpur,Malaysia,large_airport,3,102,AS
+LBD,Khujand,Tajikistan,medium_airport,40,70,AS
+YJV,Valencia,Spain,RAILWAY,39,0,EU
+VLC,Valencia,Spain,medium_airport,39,0,EU
+KVX,Kirov (Kirov Oblast),Russian Federation,medium_airport,59,49,EU
+HAV,Havana,Cuba,large_airport,23,-82,NA
+SJU,San Juan,Puerto Rico,large_airport,18,-66,NA
+SWT,Strezhevoy,Russian Federation,medium_airport,61,78,AS
+MPH,Caticlan,Philippines,medium_airport,12,122,AS
+DSN,Dongsheng,China,medium_airport,39,110,AS
+DUR,Durban,South Africa,large_airport,-30,31,AF
+LGA,"New York, New York",United States of America,large_airport,41,-74,NA
+JFK,"New York, New York",United States of America,large_airport,41,-74,NA
+EWR,"New York, New York",United States of America,large_airport,41,-74,NA
+NUX,Novy Urengoy,Russian Federation,medium_airport,66,77,AS
+TYN,Taiyuan,China,large_airport,38,113,AS
+DAT,Datong,China,small_airport,40,113,AS
+TGO,Tongliao,China,medium_airport,44,122,AS
+NIM,Niamey,Niger,large_airport,13,2,AF
+ARH,Arkhangelsk,Russian Federation,medium_airport,65,41,EU
+PEZ,Penza,Russian Federation,medium_airport,53,45,EU
+SSA,Salvador,Brazil,large_airport,-13,-38,SA
+BXU,Butuan,Philippines,medium_airport,9,125,AS
+TXN,Tunxi,China,medium_airport,30,118,AS
+HAJ,Hannover,Germany,large_airport,52,10,EU
+ZVR,Hannover,Germany,RAILWAY,52,10,EU
+YYZ,Toronto,Canada,large_airport,44,-80,NA
+MIA,"Miami, Florida",United States of America,large_airport,26,-80,NA
+PFB,Passo Fundo,Brazil,medium_airport,-28,-52,SA
+SKD,Samarkand,Uzbekistan,medium_airport,40,67,AS
+NTG,Nantong,China,medium_airport,32,121,AS
+NKG,Nanjing,China,large_airport,32,119,AS
+LXA,Lhasa,China,medium_airport,29,91,AS
+JGN,Jiayuguan,China,small_airport,40,98,AS
+IKT,Irkutsk,Russian Federation,medium_airport,52,104,EU
+OAX,Oaxaca,Mexico,medium_airport,17,-97,NA
+CSY,Cheboksary,Russian Federation,medium_airport,56,47,AS
+BHY,Beihai,China,medium_airport,22,109,AS
+SLL,Salalah,Oman,medium_airport,17,54,AS
+EVN,Yerevan,Armenia,large_airport,40,44,AS
+OSI,Osijek,Croatia,medium_airport,45,19,EU
+JGA,Jamnagar,India,medium_airport,22,70,AS
+ASR,Kayseri,Turkey,medium_airport,39,35,AS
+SZX,Shenzhen,China,large_airport,23,114,AS
+TSR,Timisoara,Romania,medium_airport,46,21,EU
+LJG,Lijiang City,China,medium_airport,27,100,AS
+HOU,"Houston, Texas",United States of America,medium_airport,30,-95,NA
+IAH,"Houston, Texas",United States of America,large_airport,30,-95,NA
+NAL,Nalchik,Russian Federation,medium_airport,44,44,EU
+SOF,Sofia,Bulgaria,large_airport,43,23,EU
+BLR,Bangalore,India,large_airport,13,78,AS
+ORY,Paris,France,large_airport,49,2,EU
+CDG,Paris,France,large_airport,49,3,EU
+GOT,Goeteborg,Sweden,large_airport,58,12,EU
+SKP,Skopje,Macedonia,large_airport,42,22,EU
+PEN,Penang,Malaysia,medium_airport,5,100,AS
+JAI,Jaipur,India,medium_airport,27,76,AS
+DED,Dehradun,India,medium_airport,30,78,AS
+VKT,Vorkuta,Russian Federation,medium_airport,67,64,AS
+ADD,Addis Ababa,Ethiopia,large_airport,9,39,AF
+WUS,Wuyishan,China,medium_airport,28,118,AS
+USK,Usinsk,Russian Federation,medium_airport,66,57,AS
+MAD,Madrid,Spain,large_airport,40,-4,EU
+XTI,Madrid,Spain,RAILWAY,40,-4,EU
+XOC,Madrid,Spain,RAILWAY,40,-4,EU
+ABV,Abuja,Nigeria,large_airport,9,7,AF
+DMB,Taraz,Kazakhstan,medium_airport,43,71,AS
+QDU,Duesseldorf,Germany,RAILWAY,51,7,EU
+DUS,Duesseldorf,Germany,large_airport,51,7,EU
+KCH,Kuching,Malaysia,medium_airport,1,110,AS
+JGS,Ji an,China,medium_airport,27,115,AS
+KYA,Konya,Turkey,medium_airport,38,33,AS
+UDR,Udaipur,India,medium_airport,25,74,AS
+KLF,Kaluga,Russian Federation,medium_airport,55,36,EU
+BAX,Barnaul,Russian Federation,medium_airport,53,84,AS
+HAK,Haikou,China,large_airport,20,110,AS
+JHG,Jinghong,China,medium_airport,22,101,AS
+VRA,Varadero,Cuba,large_airport,23,-81,NA
+HYD,Hyderabad,India,large_airport,17,78,AS
+TRS,Trieste,Italy,medium_airport,46,13,EU
+PRN,Pristina,Serbia,medium_airport,43,21,EU
+KWJ,Gwangju,Korea (South),medium_airport,35,127,AS
+FEG,Fargona,Uzbekistan,medium_airport,40,72,AS
+ARN,Stockholm,Sweden,large_airport,60,18,EU
+ZAG,Zagreb,Croatia,large_airport,46,16,EU
+OHH,Okha,Russian Federation,small_airport,54,143,AS
+YKS,Yakutsk,Russian Federation,medium_airport,62,130,AS
+HTA,Chita,Russian Federation,medium_airport,52,113,EU
+ASB,Asgabat,Turkmenistan,large_airport,38,58,AS
+BOD,Bordeaux,France,large_airport,45,-1,EU
+ZFQ,Bordeaux,France,RAILWAY,45,-1,EU
+MLE,Male,Maldives,large_airport,4,74,AS
+SSH,Sharm El Sheikh,Egypt,large_airport,28,34,AS
+ZDN,Brno,Czech Republic,RAILWAY,49,16,EU
+ORN,Oran,Algeria,medium_airport,36,-1,AF
+CGY,Cagayan De Oro,Philippines,medium_airport,9,124,AS
+DLC,Dalian,China,large_airport,39,122,AS
+SYD,Sydney,Australia,large_airport,-34,151,OC
+SKG,Thessaloniki,Greece,large_airport,41,23,EU
+HMI,Hami,China,medium_airport,43,94,AS
+DLI,Dalat,Viet Nam,medium_airport,12,108,AS
+PNR,Pointe Noire,Congo,medium_airport,-5,12,AF
+HNY,Hengyang,China,small_airport,27,113,AS
+ZAQ,Nurnberg,Germany,RAILWAY,49,11,EU
+NUE,Nurnberg,Germany,large_airport,49,11,EU
+FUG,Fuyang,China,medium_airport,33,116,AS
+SJC,"San Jose, CA",United States of America,large_airport,37,-122,NA
+HER,Heraklion,Greece,large_airport,35,25,EU
+YNZ,Yancheng,China,medium_airport,33,120,AS
+TIF,Taif,Saudi Arabia,medium_airport,21,41,AS
+LHW,Lanzhou,China,large_airport,37,104,AS
+MRS,Marseille,France,large_airport,43,5,EU
+WVB,Walvis Bay,Namibia,medium_airport,-23,15,AF
+BLZ,Blantyre,Malawi,medium_airport,-16,35,AF
+ZWS,Stuttgart,Germany,RAILWAY,48,9,EU
+STR,Stuttgart,Germany,large_airport,49,9,EU
+FCO,Rome,Italy,large_airport,42,12,EU
+IRT,Rome,Italy,RAILWAY,41,12,EU
+XRJ,Rome,Italy,RAILWAY,41,12,EU
+AGA,Agadir,Marocco,large_airport,30,-9,AF
+HRE,Harare,Zimbabwe,large_airport,-18,31,AF
+IJK,Izhevsk,Russian Federation,medium_airport,57,53,EU
+DPS,Denpasar Bali,Indonesia,large_airport,-9,115,AS
+PNQ,Pune,India,medium_airport,19,74,AS
+LGK,Langkawi,Malaysia,medium_airport,6,100,AS
+NAG,Nagpur,India,medium_airport,21,79,AS
+KGD,Kaliningrad,Russian Federation,medium_airport,55,21,EU
+VTZ,Vishakhapatnam,India,medium_airport,18,83,AS
+BNX,Banja Luka,Bosnia & Herzegovina,medium_airport,45,17,EU
+ADB,Izmir,Turkey,large_airport,38,27,AS
+URC,Urumqi,China,large_airport,44,87,AS
+NMA,Namangan,Uzbekistan,small_airport,41,72,AS
+LFW,Lome,Togo,medium_airport,6,1,AF
+WAW,Warsaw,Poland,large_airport,52,21,EU
+TRV,Thiruvananthapuram,India,large_airport,8,77,AS
+XIC,Xichang,China,medium_airport,28,102,AS
+MRV,Mineralnye Vody,Russian Federation,medium_airport,44,43,EU
+SCO,Aktau,Kazakhstan,medium_airport,44,51,AS
+GRV,Grozny,Russian Federation,medium_airport,43,46,EU
+BHK,Bukhara,Uzbekistan,medium_airport,40,64,AS
+CCJ,Kozhikode,India,medium_airport,11,76,AS
+KCK,Kirensk,Russian Federation,small_airport,58,108,AS
+UDI,Uberlandia,Brazil,medium_airport,-19,-48,SA
+SAL,San Salvador,El Salvador,large_airport,13,-89,NA
+DUB,Dublin,Ireland,large_airport,53,-6,EU
+KWL,Guilin,China,large_airport,25,110,AS
+SNA,"Santa Ana, California",United States of America,large_airport,34,-118,NA
+KZN,Kazan,Russian Federation,large_airport,56,49,AS
+OTP,Bucharest,Romania,large_airport,45,26,EU
+JHB,Johor Bahru,Malaysia,medium_airport,2,104,AS
+NJC,Nizhnevartovsk,Russian Federation,medium_airport,61,76,AS
+GME,Gomel,Belarus,medium_airport,53,31,EU
+ADA,Adana,Turkey,medium_airport,37,35,AS
+KWE,Guiyang,China,large_airport,27,107,AS
+SJW,Shijiazhuang,China,medium_airport,38,115,AS
+XMN,Xiamen,China,large_airport,25,118,AS
+CWB,Curitiba,Brazil,medium_airport,-26,-49,SA
+MCO,"Orlando, Florida",United States of America,large_airport,28,-81,NA
+CMB,Colombo,Sri Lanka,large_airport,7,80,AS
+IFN,Isfahan,Iran,medium_airport,33,52,AS
+GRZ,Graz,Austria,medium_airport,47,15,EU
+VVO,Vladivostok,Russian Federation,large_airport,43,132,AS
+KGF,Karagandy,Kazakhstan,medium_airport,50,73,AS
+HSN,Zhoushan,China,medium_airport,30,122,AS
+RAK,Marrakech,Marocco,large_airport,32,-8,AF
+NNG,Nanning,China,large_airport,23,108,AS
+URJ,Uray,Russian Federation,medium_airport,60,65,AS
+BGS,Boguchany,Russian Federation,small_airport,58,97,AS
+CTU,Chengdu,China,large_airport,31,104,AS
+TFU,Chengdu,China,large_airport,30,104,AS
+TNA,Jinan,China,large_airport,37,117,AS
+NGO,Nagoya,Japan,large_airport,35,137,AS
+GAU,Guwahati,India,medium_airport,26,92,AS
+ATL,"Atlanta, GA",United States of America,large_airport,34,-84,NA
+KGP,Kogalym,Russian Federation,medium_airport,62,75,AS
+URA,Uralsk,Kazakhstan,medium_airport,51,52,AS
+UKX,Ust Kut,Russian Federation,medium_airport,57,106,AS
+TIA,Tirana,Albania,large_airport,41,20,EU
+MCT,Muscat,Oman,large_airport,24,58,AS
+TAC,Tacloban,Philippines,medium_airport,11,125,AS
+INC,Yinchuan,China,medium_airport,38,106,AS
+DEN,"Denver, Colorado",United States of America,large_airport,40,-105,NA
+PMI,Palma Mallorca,Spain,large_airport,40,3,EU
+UGC,Urgench,Uzbekistan,medium_airport,42,61,AS
+PHX,"Phoenix, Arizona",United States of America,large_airport,33,-112,NA
+NLI,Nikolaevsk na Amure,Russian Federation,medium_airport,53,141,AS
+UUD,Ulan Ude,Russian Federation,medium_airport,52,107,EU
+VII,Vinh City,Viet Nam,medium_airport,19,106,AS
+ORD,"Chicago, Illinois",United States of America,large_airport,42,-88,NA
+AUH,Abu Dhabi,United Arab Emirates,large_airport,24,55,AS
+ZVJ,Abu Dhabi,United Arab Emirates,RAILWAY,24,54,AS
+QLS,Lausanne,Switzerland,RAILWAY,47,7,EU
+CKG,Chongqing,China,large_airport,30,107,AS
+BUR,"Burbank, California",United States of America,medium_airport,34,-118,NA
+DAD,Da Nang,Viet Nam,medium_airport,16,108,AS
+UYN,Yulin (Shaanxi),China,small_airport,38,110,AS
+KGL,Kigali,Rwanda,large_airport,-2,30,AF
+OUA,Ouagadougou,Burkina-Faso,medium_airport,12,-2,AF
+NGB,Ningbo,China,large_airport,30,121,AS
+MYY,Miri,Malaysia,medium_airport,4,114,AS
+LED,Saint Petersburg,Russian Federation,large_airport,60,30,EU
+CEB,Cebu,Philippines,large_airport,10,124,AS
+IWA,Ivanovo (Ivanovskaya obl.),Russian Federation,medium_airport,57,41,EU
+ENH,Enshi,China,medium_airport,30,109,AS
+LOS,Lagos,Nigeria,large_airport,7,3,AF
+BHH,Bisha,Saudi Arabia,medium_airport,20,43,AS
+MRU,Mauritius,Mauritius,large_airport,-20,58,AF
+AMM,Amman,Jordan,large_airport,32,36,AS
+ABJ,Abidjan,Cote d'Ivoire,medium_airport,5,-4,AF
+ITM,Osaka,Japan,large_airport,35,135,AS
+KIX,Osaka,Japan,large_airport,34,135,AS
+ZAD,Zadar,Croatia,medium_airport,44,15,EU
+SPU,Split,Croatia,medium_airport,44,16,EU
+CFU,Kerkyra,Greece,medium_airport,40,20,EU
+HGH,Hangzhou,China,large_airport,30,120,AS
+HHL,Hangzhou,China,RAILWAY,40,111,AS
+HZD,Hangzhou,China,RAILWAY,35,115,AS
+KSQ,Qarshi,Uzbekistan,small_airport,39,66,AS
+IGT,Nazran,Russian Federation,medium_airport,43,45,AS
+TOF,Tomsk,Russian Federation,medium_airport,56,85,AS
+XNN,Xining,China,medium_airport,37,102,AS
+FRA,Frankfurt am Main,Germany,large_airport,50,9,EU
+JMK,Mykonos,Greece,medium_airport,37,25,EU
+ATQ,Amritsar,India,medium_airport,32,75,AS
+ULV,Ulyanovsk,Russian Federation,medium_airport,54,48,EU
+ULY,Ulyanovsk,Russian Federation,medium_airport,54,49,EU
+BTK,Bratsk,Russian Federation,medium_airport,56,102,AS
+CZX,Changzhou,China,medium_airport,32,120,AS
+STW,Stavropol,Russian Federation,medium_airport,45,42,EU
+ILO,Iloilo,Philippines,medium_airport,11,122,AS
+DTW,"Detroit, Michigan",United States of America,large_airport,42,-83,NA
+UUS,Yuzhno Sakhalinsk,Russian Federation,medium_airport,47,143,AS
+NOZ,Novokuznetsk,Russian Federation,medium_airport,54,87,EU
+GIZ,Gizan,Saudi Arabia,medium_airport,17,43,AS
+FLR,Florence,Italy,large_airport,44,11,EU
+RGK,Gorno-Altaisk,Russian Federation,medium_airport,52,86,EU
+MDG,Mudanjiang,China,medium_airport,45,130,AS
+TZX,Trabzon,Turkey,medium_airport,41,40,AS
+CXR,Nha Trang,Viet Nam,medium_airport,12,109,AS
+ATH,Athens,Greece,large_airport,38,24,EU
+SZG,Salzburg,Austria,medium_airport,48,13,EU
+ZSB,Salzburg,Austria,RAILWAY,47,13,EU
+BCD,Bacolod,Philippines,medium_airport,11,123,AS
+EZE,Buenos Aires,Argentina,large_airport,-35,-59,SA
+AEP,Buenos Aires,Argentina,large_airport,-35,-58,SA
+VKO,Moscow,Russian Federation,large_airport,56,37,EU
+DME,Moscow,Russian Federation,large_airport,55,38,EU
+SVO,Moscow,Russian Federation,large_airport,56,37,EU
+ZIA,Moscow,Russian Federation,large_airport,56,38,EU
+BUD,Budapest,Hungary,large_airport,47,19,EU
+XXQ,Budapest,Hungary,RAILWAY,47,19,EU
+UFA,Ufa,Russian Federation,large_airport,55,56,EU
+LYA,Luoyang,China,medium_airport,35,112,AS
+ABA,Abakan,Russian Federation,medium_airport,54,91,AS
+IXC,Chandigarh,India,medium_airport,31,77,AS
+SEA,"Seattle, WA",United States of America,large_airport,47,-122,NA
+HEL,Helsinki,Finland,large_airport,60,25,EU
+SCW,Syktyvkar,Russian Federation,medium_airport,62,51,EU
+CGO,Zhengzhou,China,large_airport,35,114,AS
+ZUH,Zhuhai,China,medium_airport,22,113,AS
+MSP,"Minneapolis, Minnesota",United States of America,large_airport,45,-93,NA
+BRE,Bremen,Germany,medium_airport,53,9,EU
+DHC,Bremen,Germany,RAILWAY,53,53,EU
+TBS,Tbilisi,Georgia,large_airport,42,45,AS
+ALG,Algiers,Algeria,large_airport,37,3,AF
+SUF,Lamezia Terme,Italy,medium_airport,39,16,EU
+ESL,Elista,Russian Federation,medium_airport,46,44,EU
+CMN,Casablanca,Marocco,large_airport,33,-8,AF
+HET,Hohhot,China,large_airport,41,112,AS
+CCU,Kolkata,India,large_airport,23,88,AS
+JNB,Johannesburg,South Africa,large_airport,-26,28,AF
+HMA,Khanty-Mansiysk,Russian Federation,medium_airport,61,69,AS
+PEE,Perm,Russian Federation,medium_airport,58,56,EU
+NYA,Nyagan,Russian Federation,medium_airport,62,66,EU
+MJZ,Mirny (Resp. Yakutiya),Russian Federation,medium_airport,63,114,AS
+GUW,Atyrau,Kazakhstan,medium_airport,47,52,AS
+HUI,Hue,Viet Nam,medium_airport,16,108,AS
+BQS,Blagoveschensk (Amur Oblast),Russian Federation,medium_airport,50,127,AS
+MED,Madinah,Saudi Arabia,large_airport,25,40,AS
+LIM,Lima,Peru,large_airport,-12,-77,SA
+XYD,Lyon,France,RAILWAY,46,5,EU
+LYS,Lyon,France,large_airport,46,5,EU
+CNF,Belo Horizonte,Brazil,large_airport,-20,-44,SA
+SFO,"San Francisco, California",United States of America,large_airport,38,-122,NA
+NBO,Nairobi,Kenya,large_airport,-1,37,AF
+FIH,Kinshasa,"Congo, Democratic Republic of the",large_airport,-4,15,AF
+POA,Porto Alegre,Brazil,medium_airport,-30,-51,SA
+LCA,Larnaca,Cyprus,large_airport,35,34,AS
+XUZ,Xuzhou,China,medium_airport,34,118,AS
+MLG,Malang,Indonesia,medium_airport,-8,113,AS
+XYG,Prague,Czech Republic,RAILWAY,50,14,EU
+PRG,Prague,Czech Republic,large_airport,50,14,EU
+KHI,Karachi,Pakistan,large_airport,25,67,AS
+PQC,Phu Quoc,Viet Nam,medium_airport,10,104,AS
+KVK,Apatity,Russian Federation,small_airport,67,34,EU
+CJU,Jeju,Korea (South),large_airport,34,126,AS
+MFM,Macau,Macau (Macao),large_airport,22,114,AS
+WDH,Windhoek,Namibia,large_airport,-22,17,AF
+DAC,Dhaka,Bangladesh,large_airport,24,90,AS
+IXZ,Port Blair,India,medium_airport,12,93,AS
+GIG,Rio De Janeiro,Brazil,large_airport,-23,-43,SA
+SDU,Rio De Janeiro,Brazil,medium_airport,-23,-43,SA
+SKX,Saransk,Russian Federation,medium_airport,54,45,EU
+BGW,Baghdad,Iraq,large_airport,33,44,AS
+VAN,Van,Turkey,medium_airport,38,43,AS
+KHN,Nanchang,China,large_airport,29,116,AS
+OSL,Oslo,Norway,large_airport,60,11,EU
+VTE,Vientiane,Lao People's Democratic Republic,medium_airport,18,103,AS
+MDE,Medellin,Colombia,medium_airport,6,-75,SA
+LAS,"Las Vegas, Nevada",United States of America,large_airport,36,-115,NA
+GVN,Sovetskaya Gavan,Russian Federation,medium_airport,49,140,AS
+GOJ,Nizhniy Novgorod,Russian Federation,medium_airport,56,44,EU
+KHV,Khabarovsk,Russian Federation,medium_airport,49,135,AS
+ZHA,Zhanjiang,China,medium_airport,21,111,AS
+BEG,Belgrade,Serbia,large_airport,45,20,EU
+HPH,HaiPhong,Viet Nam,medium_airport,21,107,AS
+CSX,Changsha,China,large_airport,28,113,AS
+RHO,Rhodes,Greece,medium_airport,36,28,AS
+CGK,Jakarta,Indonesia,large_airport,-6,107,AS
+OVS,Sovetsky (KhMAD),Russian Federation,medium_airport,61,64,AS
+DLU,Dali,China,medium_airport,26,100,AS
+NOJ,Noyabrsk,Russian Federation,medium_airport,63,75,AS
+GYE,Guayaquil,Ecuador,large_airport,-2,-80,SA
+MMK,Murmansk,Russian Federation,medium_airport,69,33,EU
+LLW,Lilongwe,Malawi,medium_airport,-14,34,AF
+ESB,Ankara,Turkey,large_airport,40,33,AS
+CLT,"Charlotte, North Carolina",United States of America,large_airport,35,-81,NA
+KRO,Kurgan,Russian Federation,medium_airport,55,65,AS
+AHB,Abha,Saudi Arabia,large_airport,18,43,AS
+WUX,Wuxi,China,medium_airport,31,120,AS
+WUB,Wuxi,China,RAILWAY,31,31,AS
+YVR,Vancouver,Canada,large_airport,49,-123,NA
+GDX,Magadan,Russian Federation,medium_airport,60,151,AS
+WHA,Wuhu,China,medium_airport,31,119,AS
+KNY,Kodinsk,Russian Federation,small_airport,58,99,AS
+TUN,Tunis,Tunisia,large_airport,37,10,AF
+HRG,Hurghada,Egypt,large_airport,27,34,AF
+LUX,Luxembourg,Luxembourg,large_airport,50,6,EU
+BOG,Bogota,Colombia,large_airport,5,-74,SA
+TSN,Tianjin,China,large_airport,39,117,AS
+AHO,Alghero,Italy,medium_airport,41,8,EU
+OUD,Oujda,Marocco,medium_airport,35,-2,AF
+HSR,Rajkot,India,large_airport,22,71,AS
+NAO,Nanchong,China,small_airport,31,106,AS
+YBP,Yibin,China,medium_airport,29,105,AS
+NBC,Nizhnekamsk,Russian Federation,medium_airport,56,52,AS
+TAO,Qingdao,China,large_airport,36,120,AS
+ALA,Almaty,Kazakhstan,large_airport,43,77,AS
+AJF,Jouf,Saudi Arabia,medium_airport,30,40,AS
+TGD,Podgorica,Montenegro,large_airport,42,19,EU
+GOI,Goa,India,large_airport,15,74,AS
+GOX,Goa,India,large_airport,16,74,AS
+TRN,Turin,Italy,large_airport,45,8,EU
+CLO,Cali,Colombia,medium_airport,4,-76,SA
+SEZ,Mahe Island,Seychelles,large_airport,-5,56,AF
+FUK,Fukuoka,Japan,large_airport,34,130,AS
+LJU,Ljubljana,Slovenia,large_airport,46,14,EU
+ICN,Seoul,Korea (South),large_airport,37,126,AS
+GMP,Seoul,Korea (South),large_airport,38,127,AS
+XSP,Singapore,Singapore,medium_airport,1,104,AS
+SIN,Singapore,Singapore,large_airport,1,104,AS
+JMU,Jiamusi,China,medium_airport,47,130,AS
+BTH,Batu Besar,Indonesia,medium_airport,1,104,AS
+PUY,Pula,Croatia,medium_airport,45,14,EU
+IST,Istanbul,Turkey,large_airport,41,29,EU
+SAW,Istanbul,Turkey,large_airport,41,29,AS
+ONT,"Ontario, California",United States of America,large_airport,34,-118,NA
+CZL,Constantine,Algeria,medium_airport,36,7,AF
+SGN,Ho Chi Minh City,Viet Nam,large_airport,11,107,AS
+SYX,Sanya,China,large_airport,18,109,AS
+HAM,Hamburg,Germany,large_airport,54,10,EU
+ZMB,Hamburg,Germany,RAILWAY,53,10,EU
+DWC,Dubai,United Arab Emirates,large_airport,25,55,AS
+XNB,Dubai,United Arab Emirates,RAILWAY,25,55,AS
+DXB,Dubai,United Arab Emirates,large_airport,25,55,AS
+ZDH,Basel Mulhouse,France,RAILWAY,47,7,EU
+BSL,Basel Mulhouse,France,large_airport,48,8,EU
+MLH,Basel Mulhouse,France,RAILWAY,47,7,EU
+RSU,Yeosu,Korea (South),medium_airport,35,128,AS
+MEX,Mexico City,Mexico,large_airport,19,-99,NA
+NLU,Mexico City,Mexico,large_airport,20,-99,NA
+PUS,Busan,Korea (South),large_airport,35,129,AS
+VOG,Volgograd,Russian Federation,medium_airport,49,44,EU
+OLZ,Olyokminsk,Russian Federation,medium_airport,60,120,AS
+BHX,Birmingham,Great Britain (United Kingdom),large_airport,52,-2,EU
+ODO,Bodaybo,Russian Federation,small_airport,58,114,AS
+SVX,Yekaterinburg,Russian Federation,large_airport,57,61,AS
+INI,Nis,Serbia,medium_airport,43,22,EU
+DDG,Dandong,China,medium_airport,40,124,AS
+KWI,Kuwait,Kuwait,large_airport,29,48,AS
+AQG,Anqing,China,medium_airport,31,117,AS
+NCU,Nukus,Uzbekistan,medium_airport,42,60,AS
+BAH,Bahrain,Bahrain,large_airport,26,51,AS
+LIS,Lisboa,Portugal,large_airport,39,-9,EU
+KMG,Kunming,China,large_airport,25,103,AS
+TAS,Tashkent,Uzbekistan,large_airport,41,69,AS
+VNO,Vilnius,Lithuania,large_airport,55,25,EU
+QPP,Berlin,Germany,RAILWAY,53,13,EU
+BER,Berlin,Germany,large_airport,52,14,EU
+COK,Kochi,India,large_airport,10,76,AS
+MQF,Magnitogorsk,Russian Federation,medium_airport,53,59,EU
+DEL,Delhi,India,large_airport,29,77,AS
+KHH,Kaohsiung,Taiwan,large_airport,23,120,AS
+KSZ,Kotlas,Russian Federation,medium_airport,61,47,EU
+GDN,Gdansk,Poland,large_airport,54,18,EU
+BDS,Brindisi,Italy,large_airport,41,18,EU
+PHL,"Philadelphia, Pennsylvania",United States of America,large_airport,40,-75,NA
+NYM,Nadym,Russian Federation,medium_airport,65,73,AS
+UBN,Ulaanbaatar,Mongolia,large_airport,48,107,AS
+LKO,Lucknow,India,medium_airport,27,81,AS
+DYU,Dushanbe,Tajikistan,medium_airport,39,69,AS
+YIW,Yiwu,China,medium_airport,29,120,AS
+KEJ,Kemerovo,Russian Federation,medium_airport,55,86,AS
+ZNZ,Zanzibar,Tanzania,large_airport,-6,39,AF
+PER,Perth,Australia,large_airport,-32,116,OC
+VRN,Verona,Italy,large_airport,45,11,EU
+XIX,Verona,Italy,RAILWAY,45,11,EU
+BUS,Batumi,Georgia,medium_airport,42,42,AS
+YNB,Yanbu,Saudi Arabia,medium_airport,24,38,AS
+HFE,Hefei,China,medium_airport,32,117,AS
+AGP,Malaga,Spain,large_airport,37,-4,EU
+YJM,Malaga,Spain,RAILWAY,37,-4,EU
+LAX,"Los Angeles, California",United States of America,large_airport,34,-118,NA
+QRO,Queretaro,Mexico,medium_airport,21,-100,NA
+HTG,Hatanga,Russian Federation,medium_airport,72,102,AS
+NQZ,Astana,Kazakhstan,large_airport,51,71,AS
+LBV,Libreville,Gabon,medium_airport,0,9,AF
+AMD,Ahmedabad,India,medium_airport,23,73,AS
+YNT,Yantai,China,large_airport,38,121,AS
+UKK,Ust Kamenogorsk,Kazakhstan,medium_airport,50,82,AS
+UIH,Qui Nhon,Viet Nam,medium_airport,14,109,AS
+MBA,Mombasa,Kenya,large_airport,-4,40,AF
+TLV,Tel Aviv Yafo,Israel,large_airport,32,35,AS
+MCX,Makhachkala,Russian Federation,medium_airport,43,48,EU
+TMJ,Termez,Uzbekistan,medium_airport,37,67,AS
+OPO,Porto,Portugal,large_airport,41,-9,EU
+NZG,Nizhneangarsk,Russian Federation,small_airport,56,110,AS
+TKM,Taksimo,Russian Federation,small_airport,56,115,AS
+CZR,Chara,Russian Federation,small_airport,57,118,AS
+YCU,Yuncheng,China,medium_airport,35,111,AS
+DYG,Zhangjiajie,China,small_airport,29,110,AS
+XIY,Xian,China,large_airport,34,109,AS
+JXA,Jixi,China,medium_airport,45,131,AS
+HIA,HUAI AN,China,medium_airport,34,119,AS
+AGY,Augsburg,Germany,RAILWAY,48,48,EU
+DOY,Dongying,China,medium_airport,38,119,AS
+DQA,Daqing,China,small_airport,47,125,AS
+KPW,Keperveyem,Russian Federation,medium_airport,68,166,AS
+PYJ,Udachnyi,Russian Federation,medium_airport,66,112,AS
+YTY,Yangzhou,China,medium_airport,33,120,AS
+MJY,Motygino (Krasnoyarskiy kray),Russian Federation,small_airport,58,95,AS
+VEO,Severo-Eniseiskiy,Russian Federation,medium_airport,60,93,AS
+BPE,Qinhuangdao,China,medium_airport,40,119,AS
+KQT,Bokhtar (Qurghonteppa),Tajikistan,medium_airport,38,69,AS
+JJN,Quanzhou,China,medium_airport,25,119,AS
+TLK,Talakan (Yakutiya),Russian Federation,small_airport,60,111,EU
+ITU,Kurilsk,Russian Federation,small_airport,45,148,AS
+VDH,Dong Hoi,Viet Nam,medium_airport,18,107,AS
+VCL,Chu Lai ,Viet Nam,small_airport,15,109,AS
+LZY,Nyingchi,China,medium_airport,29,94,AS
+IAO,Del Carmen,Philippines,small_airport,10,126,AS
+LLV,Luliang,China,medium_airport,38,111,AS
+RIZ,Rizhao,China,medium_airport,35,119,AS
+WDS,Shiyan,China,medium_airport,33,111,AS
+BZX,BAZHONG,China,small_airport,32,107,AS
+NBS,Baishan,China,medium_airport,42,128,AS
+EYK,Beloyarsky (HMAO),Russian Federation,medium_airport,64,67,EU
+YLX,Yulin (Guanxi),China,medium_airport,22,110,AS
