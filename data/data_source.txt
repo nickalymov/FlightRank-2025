@@ -1,0 +1,4 @@
+The data in this directory is the original dataset provided for the Kaggle FlightRank 2025 competition.
+
+You can download it from the official competition page:
+https://www.kaggle.com/competitions/aeroclub-recsys-2025/data
